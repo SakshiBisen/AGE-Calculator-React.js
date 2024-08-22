@@ -127,6 +127,7 @@ line-height: normal;
   touch-action: manipulation;
   vertical-align: top;
   white-space: nowrap;
+   margin-left: 1px;
 }
  
 .button-65:hover {
